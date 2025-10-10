@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://marynelle-aban.vercel.app/](https://marynelle-aban.vercel.app/)
 
 - 📫 How to reach me **marynelle.aban.dev@gmail.com**
+- 🎮 want to play boring game? [Snake](https://xpnsivesharks.github.io/Snakes/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
