@@ -1,4 +1,4 @@
-<h3 align="center">I'm Chinese Nigga</h3>
+<h1>I'm Chinese Nigga</h1>
 
 - 🌱 I’m currently learning **Clean Archeticture**
 
