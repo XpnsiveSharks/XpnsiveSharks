@@ -19,7 +19,7 @@
 
 - 🔭 &nbsp;Currently building **UCMS** — a university concern management system with a Spring Boot backend, Android mobile app, and Supabase (PostgreSQL + Auth + Storage), and a confidential backend project using **NestJS**
 - 🌱 &nbsp;Currently exploring **Microsoft Azure** — cloud deployment, App Services, and Azure DevOps pipelines
-- 🏆 &nbsp;**1st Place, C# .NET Category** — CSD Interskills, University of Caloocan City (2025)
+- 🏆 &nbsp;**1st Place, C# .NET Category** — CSD Interskills, University of Caloocan City - South Campus (2025)
 - 🎓 &nbsp;BS Computer Science @ University of Caloocan City — Expected 2027
 - 📍 &nbsp;Quezon City, Philippines
 - ⚡ &nbsp;I apply the same discipline to firmware state machines as I do to distributed backend systems — structure matters at every layer
