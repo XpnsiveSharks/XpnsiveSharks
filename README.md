@@ -57,6 +57,7 @@
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
